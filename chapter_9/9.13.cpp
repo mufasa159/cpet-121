@@ -19,6 +19,7 @@
 
 using namespace std;
 
+// returns the last day of the month
 int LastDay(int userMonth) {
    int day;
    switch (userMonth) {
